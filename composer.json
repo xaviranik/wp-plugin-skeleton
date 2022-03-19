@@ -1,0 +1,17 @@
+{
+    "name": "user/wp-plugin-skeleton",
+    "description": "PLUGIN_DESCRIPTION",
+    "license": "GPL2 or later",
+    "autoload": {
+        "psr-4": {
+            "WpPluginSkeleton\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AUTHOR_NAME",
+            "email": "user@test.com"
+        }
+    ],
+    "require": {}
+}
