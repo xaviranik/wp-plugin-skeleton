@@ -2,6 +2,9 @@
 
 namespace WpPluginSkeleton;
 
+/**
+ * Class Deactivate
+ */
 class Deactivate {
 
 	/**
