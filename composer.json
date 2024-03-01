@@ -1,0 +1,20 @@
+{
+	"name": "tk/plugin-scaffold",
+	"description": "PluginScaffold",
+	"type": "wordpress-plugin",
+	"license": "GPL2 or later",
+	"autoload": {
+		"psr-4": {
+			"PluginScaffold\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Trew Knowledge",
+			"email": "info@trewknowledge.com"
+		}
+	],
+	"require": {
+		"php": "^8.0"
+	}
+}
