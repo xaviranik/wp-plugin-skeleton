@@ -13,7 +13,7 @@ class Example extends AbstractService {
 	 * Registers all hooks for the class.
 	 *
 	 * This method is responsible for registering various hooks
-	 * used by the class to interact with Core WordPress or other custom plugin/theme hooks.
+	 * used by the class to interact with Core WordPress or other plugin/theme custom hooks.
 	 * Add your hook registrations within this method.
 	 *
 	 * @return void
