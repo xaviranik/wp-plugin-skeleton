@@ -1,5 +1,5 @@
 {
-	"name": "tk/plugin-scaffold",
+	"name": "cyanside/plugin-scaffold",
 	"description": "PluginScaffold",
 	"type": "wordpress-plugin",
 	"license": "GPL2 or later",
@@ -10,8 +10,8 @@
 	},
 	"authors": [
 		{
-			"name": "Trew Knowledge",
-			"email": "info@trewknowledge.com"
+			"name": "Zabir Anik",
+			"email": "zabiranik.me@gmail.com"
 		}
 	],
 	"require": {

@@ -1,0 +1,26 @@
+{
+	"name": "plugin-skeleton",
+	"version": "1.0.0",
+	"description": "Meal planning and ordering made easy.",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build ./assets/src/index.js",
+    "start": "wp-scripts start ./assets/src/index.js",
+    "format:src": "wp-scripts format ./assets/src",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js",
+    "lint:md:docs": "wp-scripts lint-md-docs",
+    "lint:pkg-json": "wp-scripts lint-pkg-json",
+    "packages-update": "wp-scripts packages-update",
+    "test:e2e": "wp-scripts test-e2e",
+    "test:unit": "wp-scripts test-unit-js"
+  },
+  "keywords": [
+    "wordpress-plugin"
+  ],
+  "author": "zabiranik",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^27.3.0"
+  }
+}
